@@ -1,6 +1,6 @@
 <div align="center">
   
-I was looking for a job and then I found a job...
+I love music and all kinds of creative stuff!
 
 </div>
 
