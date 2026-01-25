@@ -1,6 +1,6 @@
 <div align="center">
   
-I love computers, music and all kinds of creative stuff!
+...
 
 </div>
 
