@@ -7,5 +7,6 @@
 -----------
 
 <div align="center">
-  <img width="50%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGlicnVyYzJ2aTd3a3ZsM2h5dWxtN205cHIwMTl3a29tZm12enhvNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3q3SUqPnxZGQpMNcjc/giphy.gif">
+  <img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYzM2MyNmlidXhyNWRpeTF0M3oydWV6dWttdnU0NXV2a20wMGhnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yr6DkcAYBzqVi/giphy.gif">
 </div>
+
