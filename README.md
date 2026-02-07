@@ -1,13 +1,13 @@
 <div align="center">
 
-And you run, and you run
-To catch up with the sun, but it's sinking
-And racing around
-To come up behind you again
-The sun is the same in a relative way
-But you're older
-Shorter of breath
-And one day closer to death
+And you run, and you run \n
+To catch up with the sun, but it's sinking \n
+And racing around \n
+To come up behind you again \n
+The sun is the same in a relative way \n
+But you're older \n
+Shorter of breath \n
+And one day closer to death \n
 
 </div>
 
